@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Dataset
+dataset/
+datasets/
+
+# YOLO weights
+*.pt
+*.onnx
+*.engine
+
+# YOLO training results
+runs/
+
+# Large videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
